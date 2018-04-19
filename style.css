@@ -20,14 +20,14 @@ body{
   	background-image: url("worldafrica.jpeg");
   	background-size: contain;
   	background-repeat: no-repeat;
-  	height: 110%;
+  	height: 150%;
 
 }
 
-header hr {
+/*header hr {
   	margin-top: 50%;
   	margin-bottom: 5%; 
-}
+}*/
 .top{
   
   white-space: nowrap;
@@ -44,6 +44,12 @@ header hr {
 
 canvas{
 	height: 100%;
+}
+.lrnbtn{
+	margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
 }
 
 .btn {
