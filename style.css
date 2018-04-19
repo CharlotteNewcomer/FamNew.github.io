@@ -11,7 +11,7 @@ body{
 }
 
 .startup{
-	grid-template-rows: 25% 60% 15%;
+	grid-template-rows: 25% 70% 5%;
 }
 
 .pic {
