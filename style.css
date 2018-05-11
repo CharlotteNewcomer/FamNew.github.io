@@ -11,23 +11,18 @@ body{
 }
 
 .startup{
-	grid-template-rows: 25% 60% 15%;
+	grid-template-rows: 25% 70% 5%;
 }
 
 .pic {
 	
   	background-position: center;
   	background-image: url("worldafrica.jpeg");
-  	background-size: contain;
+  	background-size: cover;
   	background-repeat: no-repeat;
-  	height: 110%;
 
 }
 
-header hr {
-  	margin-top: 50%;
-  	margin-bottom: 5%; 
-}
 .top{
   
   white-space: nowrap;
